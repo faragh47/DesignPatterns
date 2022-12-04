@@ -1,0 +1,15 @@
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\bin\Debug\net7.0\Memento.exe
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\bin\Debug\net7.0\Memento.deps.json
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\bin\Debug\net7.0\Memento.runtimeconfig.json
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\bin\Debug\net7.0\Memento.dll
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\bin\Debug\net7.0\Memento.pdb
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.csproj.AssemblyReference.cache
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.AssemblyInfoInputs.cache
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.AssemblyInfo.cs
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.csproj.CoreCompileInputs.cache
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.dll
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\refint\Memento.dll
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.pdb
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\Memento.genruntimeconfig.cache
+D:\MRF\Projects\DesignPattern\DesignPatterns\Memento\obj\Debug\net7.0\ref\Memento.dll
