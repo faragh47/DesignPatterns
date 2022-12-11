@@ -3,7 +3,6 @@ using State;
 
 Console.WriteLine("Hello, World!");
 
-
 var canvas = new Canvas();
 
 canvas.mouseUp(new BrushTool());

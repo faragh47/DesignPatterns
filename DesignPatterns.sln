@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{DD7C5097-EED5-49AA-AB71-65B3AEFABCE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{3BF515F4-BF3A-4DB5-9406-579C2DC8C1D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{3BF515F4-BF3A-4DB5-9406-579C2DC8C1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{DA713DFF-64D6-4F0F-8D98-7D6455EB3CAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3BF515F4-BF3A-4DB5-9406-579C2DC8C1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF515F4-BF3A-4DB5-9406-579C2DC8C1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF515F4-BF3A-4DB5-9406-579C2DC8C1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA713DFF-64D6-4F0F-8D98-7D6455EB3CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA713DFF-64D6-4F0F-8D98-7D6455EB3CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA713DFF-64D6-4F0F-8D98-7D6455EB3CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA713DFF-64D6-4F0F-8D98-7D6455EB3CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
