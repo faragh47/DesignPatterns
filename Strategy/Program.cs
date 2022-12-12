@@ -10,3 +10,6 @@ ImageStorage ImageStorage=new ImageStorage();
 ImageStorage.Store("Image", new PngCompressor(),new BlackAndWhiteFilter() );
 
 
+ImageStorage.Store("Image1", new JpegCompressor(),new BlackAndWhiteFilter());
+
+

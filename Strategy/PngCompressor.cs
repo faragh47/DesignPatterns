@@ -10,7 +10,7 @@ namespace Strategy
     {
         public void compress(string fileName)
         {
-            Console.WriteLine("compress image " + fileName + "with Png Converter");
+            Console.WriteLine("compress image " + fileName + " with Png Converter");
         }
     }
 }
