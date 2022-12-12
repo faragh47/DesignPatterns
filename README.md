@@ -16,6 +16,6 @@ ASP.NET Core 7
 
 The easiest way to get started is to install the NuGet package and run dotnet new ca-sln:
 
-. Install the latest .NET 7 SDK
-. Run dotnet new ca-sln to create a new project
-. Navigate to src/DesignPattern and launch the project using dotnet run
+1. Install the latest .NET 7 SDK
+2. Run dotnet new ca-sln to create a new project
+3. Navigate to src/DesignPattern and launch the project using dotnet run
