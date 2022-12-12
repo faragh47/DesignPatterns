@@ -3,7 +3,6 @@ using Iterator;
 
 Console.WriteLine("Hello, World!");
 
-
 var History = new BrowserHistory();
 
 History.Init();
