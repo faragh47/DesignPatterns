@@ -25,6 +25,5 @@ The easiest way to get started is to install the NuGet package and run dotnet ne
 
 The Memento design pattern without violating encapsulation, captures and externalizes an object‘s internal state so that the object can be restored to this state late.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/faragh47/DesignPatterns/blob/main/memento.png">
-</picture>
+![memento UML](https://github.com/faragh47/DesignPatterns/blob/main/memento.png)
+
