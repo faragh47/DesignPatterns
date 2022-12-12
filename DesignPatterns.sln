@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{DA713DFF-64D6-4F0F-8D98-7D6455EB3CAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{32BD71C0-EFDD-4293-A7F9-D5A969E33368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{32BD71C0-EFDD-4293-A7F9-D5A969E33368}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Github", "Github", "{D748021D-FC1C-4537-9035-C5BF791502C0}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\faraghdani.m\Downloads\memento.png = C:\Users\faraghdani.m\Downloads\memento.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
