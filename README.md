@@ -31,6 +31,17 @@ The Memento design pattern without violating encapsulation, captures and externa
 
 The State design pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
 
-![state UML](https://github.com/faragh47/DesignPatterns/blob/main/State.jpg)
+![state UML](https://github.com/faragh47/DesignPatterns/blob/main/state.jpg)
 
 
+#### Iterator
+
+The Iterator design pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
+![Iterator UML](https://github.com/faragh47/DesignPatterns/blob/main/Iterator.jpg)
+
+#### Strategy
+
+The Strategy design pattern defines a family of algorithms, encapsulate each one, and make them interchangeable. This pattern lets the algorithm vary independently from clients that use it.
+
+![Strategy UML](https://github.com/faragh47/DesignPatterns/blob/main/strategy.jpg)
