@@ -31,7 +31,7 @@ The Memento design pattern without violating encapsulation, captures and externa
 
 The State design pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
 
-![state UML](https://github.com/faragh47/DesignPatterns/blob/main/state.jpg)
+![state UML](https://github.com/faragh47/DesignPatterns/blob/main/State.jpg)
 
 
 #### Iterator
