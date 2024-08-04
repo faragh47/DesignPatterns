@@ -45,3 +45,10 @@ The Iterator design pattern provides a way to access the elements of an aggregat
 The Strategy design pattern defines a family of algorithms, encapsulate each one, and make them interchangeable. This pattern lets the algorithm vary independently from clients that use it.
 
 ![Strategy UML](https://github.com/faragh47/DesignPatterns/blob/main/strategy.jpg)
+
+
+#### Mediator
+
+is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+
+![Strategy UML](https://github.com/faragh47/DesignPatterns/blob/main/mediaor.jpg)
