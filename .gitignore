@@ -475,12 +475,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-/DesignPatterns.sln
-/State/obj/Debug/net7.0/State.AssemblyInfo.cs
-/State/obj/Debug/net7.0/State.AssemblyInfoInputs.cache
-/State/obj/Debug/net7.0/State.assets.cache
-/State/obj/Debug/net7.0/State.GeneratedMSBuildEditorConfig.editorconfig
-/Memento/obj/Debug/net7.0/Memento.AssemblyInfo.cs
-/Memento/obj/Debug/net7.0/Memento.AssemblyInfoInputs.cache
-/Memento/obj/Debug/net7.0/Memento.assets.cache
-/Memento/obj/Debug/net7.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
