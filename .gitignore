@@ -475,3 +475,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Memento/obj/Memento.csproj.nuget.dgspec.json
+/Memento/obj/Memento.csproj.nuget.g.props
+/Memento/obj/project.assets.json
+/Memento/obj/project.nuget.cache
+/State/obj/project.nuget.cache
+/State/obj/State.csproj.nuget.dgspec.json
+/State/obj/State.csproj.nuget.g.props
+/State/obj/project.assets.json
