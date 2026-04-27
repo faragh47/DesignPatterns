@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Github", "Github", "{D748021D-FC1C-4537-9035-C5BF791502C0}"
 	ProjectSection(SolutionItems) = preProject
-		C:\Users\faraghdani.m\Downloads\memento.png = C:\Users\faraghdani.m\Downloads\memento.png
+		..\..\..\..\faraghdani.m\Downloads\memento.png = ..\..\..\..\faraghdani.m\Downloads\memento.png
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{6DB4EAC3-5281-4B27-B233-E5D6780A27AA}"
@@ -67,6 +67,12 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{DD7C5097-EED5-49AA-AB71-65B3AEFABCE8} = {B1776F5E-BF23-45B4-A0FE-9514191FC871}
+		{3BF515F4-BF3A-4DB5-9406-579C2DC8C1D2} = {B1776F5E-BF23-45B4-A0FE-9514191FC871}
+		{DA713DFF-64D6-4F0F-8D98-7D6455EB3CAE} = {B1776F5E-BF23-45B4-A0FE-9514191FC871}
+		{32BD71C0-EFDD-4293-A7F9-D5A969E33368} = {B1776F5E-BF23-45B4-A0FE-9514191FC871}
+		{6DB4EAC3-5281-4B27-B233-E5D6780A27AA} = {B1776F5E-BF23-45B4-A0FE-9514191FC871}
+		{E8C33836-3821-419E-8019-C86084CF4A32} = {B1776F5E-BF23-45B4-A0FE-9514191FC871}
 		{B80F667B-AA1C-4144-AE9C-D4071874BFB7} = {3B91C853-DB62-49DE-B437-B12F915825C3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
